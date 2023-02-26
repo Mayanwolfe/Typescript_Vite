@@ -1,14 +1,14 @@
 # Typescript_Vite
 
-1.Install Vite
-npm create vite@latest
-add project name (start typing)
-vanilla framework
-Typescript
+1.Install Vite <br>
+npm create vite@latest <br>
+add project name (start typing) <br>
+vanilla framework <br>
+Typescript <br>
 
-2. Install UUID
-cd into your project folder
-npm i uuid
+2. Install UUID <br>
+cd into your project folder <br>
+npm i uuid <br>
 
-after importing UUID, install custom types
-npm i --save-dev @types/uuid
+after importing UUID, install custom types <br>
+npm i --save-dev @types/uuid <br>
